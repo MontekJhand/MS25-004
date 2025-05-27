@@ -1,0 +1,21 @@
+/*ID Selector: #idName used for unique element  */
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+/*class selector: 
+    selects elements with a specific class attribute value 
+    So the practical use of a class selector is meant to enable or showcase multiple
+    elements within an html file such as background color or other things*/
+body{
+    background-color: lightblue;
+}
+
+.button1{
+    text-align: right;
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+}
